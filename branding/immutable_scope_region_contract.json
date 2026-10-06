@@ -1,0 +1,187 @@
+{
+  "referenceVersion": "VulkanScope 3.0.12",
+  "referenceArchiveSha256": "8ce46a6d67824abd720fe11da3605b1693873f8de2b4be04fe58283b361d1ff2",
+  "algorithm": "RGBA cropped pixels SHA-256",
+  "assets": [
+    {
+      "path": "mipmap-mdpi/ic_launcher.png",
+      "referenceImage": "mipmap-mdpi/ic_launcher.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "region": [
+        0,
+        27,
+        48,
+        48
+      ],
+      "scopeSha256": "5ee2044e2d86747d4ed6f4655037105aec4c477c16837e828d76067a6a5800ef"
+    },
+    {
+      "path": "mipmap-mdpi/ic_launcher_round.png",
+      "referenceImage": "mipmap-mdpi/ic_launcher_round.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "region": [
+        0,
+        27,
+        48,
+        48
+      ],
+      "scopeSha256": "5ee2044e2d86747d4ed6f4655037105aec4c477c16837e828d76067a6a5800ef"
+    },
+    {
+      "path": "mipmap-hdpi/ic_launcher.png",
+      "referenceImage": "mipmap-hdpi/ic_launcher.png",
+      "dimensions": [
+        72,
+        72
+      ],
+      "region": [
+        0,
+        40,
+        72,
+        72
+      ],
+      "scopeSha256": "b0ad1bd22323ec5ce5e8afdf5e367e4347e76f7f54ec5a693b768b1f2352144b"
+    },
+    {
+      "path": "mipmap-hdpi/ic_launcher_round.png",
+      "referenceImage": "mipmap-hdpi/ic_launcher_round.png",
+      "dimensions": [
+        72,
+        72
+      ],
+      "region": [
+        0,
+        40,
+        72,
+        72
+      ],
+      "scopeSha256": "b0ad1bd22323ec5ce5e8afdf5e367e4347e76f7f54ec5a693b768b1f2352144b"
+    },
+    {
+      "path": "mipmap-xhdpi/ic_launcher.png",
+      "referenceImage": "mipmap-xhdpi/ic_launcher.png",
+      "dimensions": [
+        96,
+        96
+      ],
+      "region": [
+        0,
+        54,
+        96,
+        96
+      ],
+      "scopeSha256": "09157f5528ee3b03dae8c5bba16550c52c12d5511087e8b0f1b385a350900f17"
+    },
+    {
+      "path": "mipmap-xhdpi/ic_launcher_round.png",
+      "referenceImage": "mipmap-xhdpi/ic_launcher_round.png",
+      "dimensions": [
+        96,
+        96
+      ],
+      "region": [
+        0,
+        54,
+        96,
+        96
+      ],
+      "scopeSha256": "09157f5528ee3b03dae8c5bba16550c52c12d5511087e8b0f1b385a350900f17"
+    },
+    {
+      "path": "mipmap-xxhdpi/ic_launcher.png",
+      "referenceImage": "mipmap-xxhdpi/ic_launcher.png",
+      "dimensions": [
+        144,
+        144
+      ],
+      "region": [
+        0,
+        81,
+        144,
+        144
+      ],
+      "scopeSha256": "3b6e3c353666bf12a252ddfea8c1e296befd4f9e3d133b7879871524c08d8e3f"
+    },
+    {
+      "path": "mipmap-xxhdpi/ic_launcher_round.png",
+      "referenceImage": "mipmap-xxhdpi/ic_launcher_round.png",
+      "dimensions": [
+        144,
+        144
+      ],
+      "region": [
+        0,
+        81,
+        144,
+        144
+      ],
+      "scopeSha256": "3b6e3c353666bf12a252ddfea8c1e296befd4f9e3d133b7879871524c08d8e3f"
+    },
+    {
+      "path": "mipmap-xxxhdpi/ic_launcher.png",
+      "referenceImage": "mipmap-xxxhdpi/ic_launcher.png",
+      "dimensions": [
+        192,
+        192
+      ],
+      "region": [
+        0,
+        108,
+        192,
+        192
+      ],
+      "scopeSha256": "873fde314c3e20d5f37b269ab09e3118dc0d100c3f9787bc27b5f45e7d1f1760"
+    },
+    {
+      "path": "mipmap-xxxhdpi/ic_launcher_round.png",
+      "referenceImage": "mipmap-xxxhdpi/ic_launcher_round.png",
+      "dimensions": [
+        192,
+        192
+      ],
+      "region": [
+        0,
+        108,
+        192,
+        192
+      ],
+      "scopeSha256": "873fde314c3e20d5f37b269ab09e3118dc0d100c3f9787bc27b5f45e7d1f1760"
+    },
+    {
+      "path": "drawable-nodpi/openclscope_logo_foreground.png",
+      "referenceImage": "drawable-nodpi/vulkanscope_logo_foreground.png",
+      "dimensions": [
+        108,
+        108
+      ],
+      "region": [
+        0,
+        59,
+        108,
+        108
+      ],
+      "scopeSha256": "da2db0a54db19ceb2139d39bb48199dd3991522f22417ba370b565a635801515"
+    },
+    {
+      "path": "drawable-nodpi/openclscope_logo_horizontal_aligned.png",
+      "referenceImage": "drawable-nodpi/vulkanscope_logo_horizontal_aligned.png",
+      "dimensions": [
+        546,
+        84
+      ],
+      "region": [
+        250,
+        0,
+        546,
+        84
+      ],
+      "scopeSha256": "ddd7db5c4aca403b8e5e172454fb4a4fadc8189bba14d7d6856cc641b220c18a"
+    }
+  ]
+}

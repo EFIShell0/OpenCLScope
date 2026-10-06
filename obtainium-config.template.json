@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "id": "com.efishell.openclscope",
+      "url": "https://github.com/OWNER/REPLACE_WITH_PUBLISHED_OPENCLSCOPE_REPOSITORY",
+      "author": "OWNER",
+      "name": "OpenCLScope",
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":false,\"apkFilterRegEx\":\"(?i).*universal.*\\\\.apk$\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":false,\"trackOnly\":false,\"appName\":\"OpenCLScope\"}",
+      "overrideSource": "GitHub"
+    }
+  ]
+}

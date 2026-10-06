@@ -1,0 +1,8 @@
+Immutable input / embedded asset                                    SHA-256
+VulkanScope-3.0.12.zip (not redistributed)                              8ce46a6d67824abd720fe11da3605b1693873f8de2b4be04fe58283b361d1ff2
+app/src/main/assets/registry/cl.xml                                     c24f63ad9aa5776fe67808926ae85613248ebbeefa7373fceb406a0bd12ce016
+app/src/main/assets/registry/opencl.svg                                 7e99195dec3f96efb9cfd6aa137af390f9f30711b6e6a0573bfc47f50ab77f1e
+VulkanScope-Database-1.4.12.zip (not redistributed)                     05050c880d89868e2dec0fd6c71b925591a3f9194be829ef9b1ad9f499e89c3c
+OpenCLScope-0.1.0.zip (immutable predecessor, not redistributed)        402151f5faaa9bf748cf316e6ff9e68dd8007ecbcab9c41f6c94932118b9ddce
+OpenCLScope-0.8.1.zip (immediate predecessor)                           42b32f4878084ca98e2a2db188ee357b12d7b6dbbd93656116a69067c7a20e50
+OpenCLScope-Database-0.7.1.zip (paired predecessor)                   5e5585de49376be2afd5f212b4ccff9b0af247aaf1c842faa84e37a2b6b5a6d1
