@@ -1,2 +1,2 @@
 # OpenCLScope
-OpenCL capabilities and GPU information viewer for Android
+OpenCL™ capabilities and GPU information viewer for Android
